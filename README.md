@@ -8,3 +8,4 @@ protoc -Igreet/proto --go_out=. --go_opt=module=github.com/nithinkm8055/grpc-go-
 ## References
 - [Go Quick Start](https://grpc.io/docs/languages/go/quickstart/)
 - [Course Repo](https://github.com/Clement-Jean/grpc-go-course)
+- [Evans CLI Repo](https://github.com/ktr0731/evans)

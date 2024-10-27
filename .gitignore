@@ -1,0 +1,6 @@
+bin/
+
+# certificates
+*.crt
+*.pem
+*.key
